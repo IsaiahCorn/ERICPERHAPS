@@ -1,3 +1,3 @@
 function playEricLap(e){
-	document.getElementById("crowd-noise").play();
+	document.getElementById("lap-top").play();
 }
