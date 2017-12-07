@@ -1,3 +1,3 @@
-function playCheer(e){
+function playEricLap(e){
 	document.getElementById("crowd-noise").play();
 }
